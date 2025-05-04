@@ -9,7 +9,7 @@
 </div>
 <!-- star 语言占比等统计 -->
 
-<h2 align="center">访客数</h2>
+<h2 align="center">欢迎！！！</h2>
 
 ![:ZGQ-inc](https://count.getloli.com/get/@ndhhhha?theme=rule34)
 
