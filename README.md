@@ -11,7 +11,7 @@
 
 <h2 align="center">欢迎！！！</h2>
 
-![:ZGQ-inc](https://count.getloli.com/get/@ndhhhha?theme=rule34)
+![:ndhhhha](https://count.getloli.com/get/@ndhhhha?theme=rule34)
 
 <h2 align="center">语言和工具</h2>
 
