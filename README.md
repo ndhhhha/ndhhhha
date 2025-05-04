@@ -9,6 +9,10 @@
 </div>
 <!-- star 语言占比等统计 -->
 
+<h2 align="center">访客数</h2>
+
+![:ZGQ-inc](https://count.getloli.com/get/@ndhhhha?theme=rule34)
+
 ## Github Stats  
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ndhhhha&hide_title=true&hide_border=true&show_icons=trueline_height=21" />
